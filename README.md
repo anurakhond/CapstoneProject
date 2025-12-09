@@ -21,4 +21,4 @@ By comparing the 3 values, the user can see how temperature/precipitation can im
 
 A plot is also generated for extra data visualization.
 
-link to video:
+link to video:https://livejohnshopkins-my.sharepoint.com/:v:/r/personal/akhond1_jh_edu/Documents/Biomedical%20Data%20Science%20-%20Fall%202025/Anura%20Khond%20Capstone%20Project%20Biomedical%20Data%20Science.mp4?csf=1&web=1&e=V2rBIK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiIwNWE1ZDNhZC1lMmU2LTQxNWQtYWI4Zi1mNDg1NGZjODlkMWIifX0%3D
